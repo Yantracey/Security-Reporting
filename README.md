@@ -118,3 +118,25 @@ preventing C2 attacks, as they often occur after bypassing other security tools 
 
 33. **Percentage of Breaches Involving Phishing:**
     - 25%
+
+**References:**
+                                               
+- Al-Qahtani, A., Cresi, S. (2022, July 4). The COVID-19 scamdemic: A survey of phishing attacks and their countermeasures during COVID-19. National Library of Medicine. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9349804/
+- Andrew Young School of Policy Studies. (n.d.). The cybercrime ecosystem. Georgia State University
+https://ebcs.gsu.edu/about/cybercrime-ecosystem/#:~:text=These%20enablers%20include%3A%20coders%20or,who%20maintain%20the%20criminal%20infrastructure%2C
+- Blue Voyant (2020, May 14). Wicked panda exploiting new vulnerabilities. https://www.bluevoyant.com/blog/wickedpanda-exploiting-new-vulnerabilities
+- Crowdstrike (2021). Global threat report. https://www.crowdstrike.com/global-threat-report-2021/
+- Cyberhub (1994-2003). What is a backdoor attack? Checkpoint https://www.checkpoint.com/cyber-hub/cyber-security/what-is-cyber-attack/what-is-a-backdoor-attack/#HowtoPrevent
+- Cyberpedia (2023). What is a credential-based attack? Palo Alto Networks https://www.paloaltonetworks.com/cyberpedia/what-is-a-credential-based-attack#:~:text=Credential%20based%20attacks%20occur%20when,measures%2C%20and%20steal%20critical%20data
+- Cyberpedia (2023). What is a command and control attack? Palo Alto Networks https://www.paloaltonetworks.com/cyberpedia/command-and-control-explained
+- Cyberpedia (2023). What is a denial of service attack (DoS)? Palo Alto Networks https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos
+- Cybersecurity 101 (2023, February 2). Keyloggers: how they work and how to detect them. Crowdstrike https://www.crowdstrike.com/cybersecurity-101/attack-types/keylogger/#:~:text=Keyloggers%2C%20or%20keystroke%20loggers%2C%20are,sends%20it%20to%20the%20attacker
+- Cybersecurity Knowledge Hub (2023). Dedicated leak sites(dls): Here’s what younshould know. Group-IB
+https://www.group-ib.com/resources/knowledge-hub/dedicated-leak-sites/#:~:text=A%20Dedicated%20Leak%20Site%20(DLS,pay%20the%20ransom%2C%20are%20published
+- Federal Bureau of Investigation. (2020, April 13). FBI warns of advance fee and BEC schemes related to procurement of PPE and other supplies during covid-19 pandemic. FBI News.
+https://www.fbi.gov/news/press-releases/fbi-warns-of-advance-fee-and-bec-schemes-related-to-procurement-of-ppe-and-other-supplies-during-covid-19-pandemic
+- IRS. (n.d.). Avoid scams related to economic payments, covid-19. CISA. https://www.cisa.gov/sites/default/files/publications/Avoid_Scams_Related_to_Economic_Payments_COVID-19.pdf
+- Katz, O. (2018, December 14). Quiz phishing: one scam, 78 variations. Akamai https://www.akamai.com/blog/security/quiz-phishing--one-scam--78-variations
+- Poza, D. (2023, July 3). What is credential stuffing? how to prevent credential stuffing Attacks. Auth0 blog https://auth0.com/blog/what-is-credential-stuffing/
+- Ragan, S. (2020). State of the internet/ security: a year in review. Akamai, 6 (4), 3-20 https://www.akamai.com/site/en/documents/state-of-the-internet/soti-security-a-year-in-review-report-2020.pdf
+- Verizon (2021). 2021 data breach investigations report.https://www.verizon.com/business/resources/reports/2021-data-breach-investigations-report.pdf
